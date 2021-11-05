@@ -1,4 +1,5 @@
-### Blocking ads providers and some analytics providers
+### ADS Block hosts File
+Blocking chinese ads providers and some analytics providers
 
 #### More hosts file download :
 https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt
