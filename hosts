@@ -47,7 +47,6 @@ ff02::3 ip6-allhosts
 ::1 ip6-loopback
 ::1 localhost.localdomain
 255.255.255.255 broadcasthost
-127.0.0.1 127.0.0.1
 
 # 360, Qiku, Qihoo
 127.0.0.1 api.os.qiku.com
