@@ -10,3 +10,4 @@ ALL OF THE HOSTS IN THIS COMMENTED OUT SECTION CAUSE PROBLEMS IN ONE WAY OR ANOT
 * https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 * https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 * https://adaway.org/hosts.txt
+* other source
