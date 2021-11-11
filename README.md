@@ -1,4 +1,4 @@
-### VPSIIX ADBlock
+## VPSIIX ADBlock
 
 ### Description:
 Filter composed of several other filters (Adaway, ABPIndo, Easylistchina, StevenBlack, AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, Spam404, Analystics, etc) and simplified specifically to be better compatible with DNS-level ad blocking and merges into a hosts file with duplicates removed and sorted.
