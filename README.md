@@ -18,7 +18,7 @@ Filter composed of several other filters (Adaway, Tracking Protection filter, Mo
 * https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 * https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
 * https://adaway.org/hosts.txt
-* other source (ads shown from chinese smartphone)
+* other source (ads shown from some chinese smartphone)
 
 
 #### License:
