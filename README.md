@@ -16,7 +16,6 @@ Filter composed of several other filters (Adaway, Tracking Protection filter, Mo
 #### This hosts file is generated from the following source:
 * https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 * https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-* https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
 * https://adaway.org/hosts.txt
 * other source (ads shown from some chinese smartphone)
 
